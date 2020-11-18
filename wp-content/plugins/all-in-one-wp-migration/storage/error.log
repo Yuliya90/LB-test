@@ -1,0 +1,6 @@
+Nov 18 2020 12:36:57
+{"type":2,"message":"Cannot modify header information - headers already sent","file":"D:\\Programs\\xampp\\htdocs\\Test_LB\\wp-admin\\includes\\misc.php","line":1310}
+
+Nov 18 2020 12:37:08
+{"type":2,"message":"Cannot modify header information - headers already sent","file":"D:\\Programs\\xampp\\htdocs\\Test_LB\\wp-admin\\includes\\misc.php","line":1310}
+

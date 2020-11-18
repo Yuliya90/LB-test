@@ -1,0 +1,308 @@
+@media (min-width: 768px) and (max-width: 1023px) {
+    .main {
+        width: auto;
+        height: 350px;
+        background: url(../image/bg.png);
+        background-size: cover;
+    }
+
+    .price {
+        margin-left: 54px;
+    }
+
+    .price_img {
+        left: 1.71%;
+        top: 5.29%;
+    }
+
+    .btn_price {
+        position: absolute;
+        margin-left: 23px;
+        margin-top: -20px;
+    }
+
+    .txt_price,
+    .txt_diameter,
+    .txt_packaging,
+    .txt_type {
+        position: absolute;
+
+    }
+
+    .txt_price {
+        margin-top: -16px;
+    }
+
+    .txt_diameter {
+        margin-top: 135px;
+        margin-left: -310px;
+    }
+
+    .diameter_img {
+        left: 1.71%;
+        top: 42.29%;
+    }
+
+    .btn_diameter-1 {
+
+        margin-top: 120px;
+
+    }
+
+    .btn_diameter-1 {
+        margin-left: 25px;
+    }
+
+    .mine {
+        left: 25px;
+        margin-top: 60px;
+    }
+
+    .txt_packaging {
+        margin-top: 8px;
+        margin-left: -300px;
+    }
+
+    .packaging_img {
+        width: 17px;
+        position: absolute;
+        left: 34.71%;
+        top: 5.29%;
+    }
+
+    .btn_packaging-1,
+    .btn_packaging-2,
+    .btn_packaging-3,
+    .btn_packaging-4 {
+        position: absolute;
+        margin-top: -20px;
+    }
+
+    .btn_packaging-1 {
+        margin-left: 325px;
+    }
+
+    .btn_packaging-2 {
+        margin-left: 373px;
+    }
+
+    .btn_packaging-3 {
+        margin-left: 434px;
+    }
+
+    .btn_packaging-4 {
+        margin-left: 498px;
+    }
+
+    .type_img {
+        width: 37px;
+        position: absolute;
+        left: 33.71%;
+        top: 37.29%;
+    }
+
+    .txt_type {
+        margin-left: -602px;
+        margin-top: 135px;
+    }
+
+    .img {
+        left: 32.62%;
+        top: 198px;
+    }
+
+    .header {
+        margin-left: 20px;
+    }
+
+    .overlay {
+        left: 250px;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+    html {
+
+        width: 100%;
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+
+    body {
+        margin: 0px;
+        width: 100%;
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+
+    .main {
+        width: auto;
+        height: 1000px;
+        background: url(../image/bg.png)0 0 no-repeat;
+        background-size: cover;
+        top: 220px;
+    }
+
+    .overlay {
+        left: 260px;
+    }
+
+    .mine {
+        position: absolute;
+        margin-left: 175px;
+        margin-top: 660px;
+        width: 320px;
+        height: 100px;
+    }
+
+    .txt_type {
+        font-size: 50px;
+        margin-left: -815px;
+        margin-top: 783px;
+    }
+
+    .type_img {
+        width: 117px;
+        position: absolute;
+        left: 2.71%;
+        top: 72.29%;
+    }
+
+    .txt_packaging {
+        font-size: 50px;
+        margin-top: 376px;
+        margin-left: -497px;
+    }
+
+    .txt_diameter {
+        font-size: 50px;
+        margin-left: -205px;
+        margin-top: 583px;
+    }
+
+    .btn_diameter-1,
+    .btn_diameter-2,
+    .btn_diameter-3,
+    .btn_diameter-4 {
+        position: absolute;
+        margin-top: 608px;
+    }
+
+    .btn_packaging-1 {
+        position: absolute;
+        margin-left: 83px;
+    }
+
+    .btn_diameter-1 {
+        margin-left: 83px;
+    }
+
+    .btn_diameter-2,
+    .btn_packaging-2 {
+        margin-left: 255px;
+    }
+
+    .btn_diameter-3,
+    .btn_packaging-3 {
+        margin-left: 427px;
+    }
+
+    .btn_diameter-4,
+    .btn_packaging-4 {
+        margin-left: 600px;
+    }
+
+    .diameter_img {
+        width: 53px;
+        position: absolute;
+        left: 4.71%;
+        top: 58.29%;
+    }
+
+    .btn_packaging-1,
+    .btn_packaging-2,
+    .btn_packaging-3,
+    .btn_packaging-4 {
+        position: absolute;
+        margin-top: 402px;
+    }
+
+    .packaging_img {
+        width: 56px;
+        position: absolute;
+        left: 4.71%;
+        top: 37.29%;
+    }
+
+    .btn_price {
+        margin-top: 208px;
+        width: 183px;
+        height: 80px;
+        font-weight: 600;
+        font-size: 32px;
+    }
+
+    .txt_price {
+        margin-top: 176px;
+        font-size: 50px;
+    }
+
+    .price_img {
+        width: 73px;
+        position: absolute;
+        left: 3.71%;
+        top: 20.29%;
+    }
+
+    .img {
+        vertical-align: middle;
+        border-style: none;
+        margin-left: -300px;
+        margin-top: -124px;
+        width: 500px;
+    }
+
+    .hit {
+        position: absolute;
+        margin-top: 85px;
+    }
+
+    .txt {
+        position: fixed;
+        margin-top: -60px;
+        font-size: 63px;
+    }
+
+    .txt_hit {
+        font-size: 22px;
+        margin-top: 0px;
+    }
+
+    .hit {
+        width: 171px;
+        height: 48px;
+        top: 14px;
+        left: 135px;
+    }
+
+    .big {
+        font-weight: 700;
+        font-size: 23px;
+    }
+
+    .btn_diameter-1,
+    .btn_diameter-2,
+    .btn_diameter-3,
+    .btn_diameter-4,
+    .btn_packaging-1,
+    .btn_packaging-2,
+    .btn_packaging-3,
+    .btn_packaging-4 .btn_packaging-1,
+    .btn_packaging-2,
+    .btn_packaging-3,
+    .btn_packaging-4 {
+        height: 70px;
+        width: 160px;
+        font-size: 40px;
+    }
+}
